@@ -4,5 +4,7 @@
 
 ## Создан playbook в /etc/ansible/playbooks (/playbooks/nginx_php_fpm.yml в проекте)
 
+## nginx.conf - конфигурационный файл nginx 
+
 # Применение:
 ansible-playbook /etc/ansible/playbooks/nginx_php_fpm.yml
